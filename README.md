@@ -1,3 +1,5 @@
+**Kyverno has transitioned to CEL (Common Expressions Language) and JMESPath based JSON processing is deprecated**
+
 # Kyverno JSON [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Kyverno%20everywhere%21%20%0A%0AEasily%20validate%20any%20JSON%20or%20YAML%20payload%20using%20Kyverno.%0A%0A&url=https://github.com/kyverno/kyverno-json/%0A%0A&hashtags=kubernetes,devops)
 
 **Kyverno everywhere! 🎉**
